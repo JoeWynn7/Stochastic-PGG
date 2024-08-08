@@ -15,7 +15,7 @@ This repository includes code for performing evolutionary dynamics analysis and 
   Plots the equilibrium fraction of cooperators \(x^*\) as a function of \(r\) for different values of \(\delta\). Generates **Figure 3**.
 
 - **plot_p_r_xxx.m**:  
-  Generates phase diagrams of the \(r-p\) parameter plane using data from `p_r_xxx.mat`. This script creates **Figure 4 a d**.
+  Generates phase diagrams of the \(r-p\) parameter plane. This script creates **Figure 4 a d**.
 
 - **plot_simu_theo_xxx.m**:  
   Compares simulation results with theoretical results when \(p \in [0,1]\) in both well-mixed and structured populations. This script is responsible for **Figure 4 c f**.
